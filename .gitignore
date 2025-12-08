@@ -1,6 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 frontend/.idea
 frontend/package-lock.json
+backend/package-lock.json
+package-lock.json
 # dependencies
 backend/node_modules
 frontend/node_modules
